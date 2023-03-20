@@ -1,4 +1,4 @@
-# solution.py
+# solution1.py
 
 N = int(input())
 Result = 0
