@@ -4,9 +4,8 @@ Welcome to my algorithm practice repository! This repository contains solutions 
 
 ## Table of Contents
 
-- [Problem 1](./problem1/solution1.py)
-- [Problem 2](./problem2/README.md)
-- [Problem 3](./problem3/README.md)
+- [Problem 1](./problem1/)
+  - [Solution](./problem1/solution.py)
 
 ## Language Used
 
