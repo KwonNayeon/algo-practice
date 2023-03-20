@@ -5,7 +5,7 @@ Welcome to my algorithm practice repository! This repository contains solutions 
 ## Table of Contents
 
 - [Problem 1](./problem1/)
-  - [Problem](./problem1/problem1.py)
+  - [Problem](./problem1/README.md)
   - [Solution](./problem1/solution1.py)
 
 ## Language Used
