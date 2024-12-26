@@ -19,7 +19,7 @@ This repository contains my solutions and study materials as I learn algorithms 
 ```
 ├── README.md
 ├── note/              # Study notes from "The Self-Taught Computer Scientist"
-│   └── summary/       
+│   └── algorithm_and_data_structure_chapter_2_5.ipynb       
 ├── codeit_python/     # CodeIt Python course exercises
 │   └── practice/      # Coding exercises and solutions
 └── leetcode_pending/  # Pending problems from LeetCode study
