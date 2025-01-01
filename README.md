@@ -18,16 +18,15 @@ This repository contains my solutions and study materials as I learn algorithms 
 ## Structure
 ```
 ├── README.md
-├── note/              # Study notes from "The Self-Taught Computer Scientist"
-│   └── algorithm_and_data_structure_chapter_2_5.ipynb       
-├── codeit_python/     # CodeIt Python course exercises
-│   └── practice/      # Coding exercises and solutions
-└── leetcode_pending/  # Pending problems from LeetCode study
-   └── blind75/       # Unsolved Blind 75 problems
-       ├── array/
-       ├── string/
-       ├── tree/
-       └── ...
+├── note/  # Study notes and theoretical concepts
+│   ├── algorithm_and_data_structure_chapter_2_5.ipynb
+│   └── algorithm_and_data_structure_chapter_6.ipynb
+├── practice/  # Algorithm problem solutions
+│   ├── book_problems/  # Problems from "The Self-Taught Computer Scientist"
+│   └── codeit_python/  # CodeIt Python course exercises
+├── leetcode_pending/  # Pending problems from LeetCode study
+│   └── blind75/  # Unsolved Blind 75 problems
+│       └── w2_decode_ways.py
 ```
 
 ## Resources
