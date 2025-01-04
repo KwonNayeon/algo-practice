@@ -1,1 +1,12 @@
-# 정렬을 사용하지 않고 O(n)에 푸는 풀이도 가능 할 것 같은데, 시간 되실 때 한번 생각해보셔도 좋을 것 같습니당 😄
+"""
+Constraints:
+1. 
+2. 
+
+Time Complexity: -
+
+Space Complexity: -
+
+Future Improvements:
+- 정렬을 사용하지 않고 O(n)에 푸는 풀이 방법 고민해보기
+"""
