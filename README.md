@@ -33,5 +33,3 @@ This repository contains my solutions and study materials as I learn algorithms 
 * "The Self-Taught Computer Scientist" by Cory Althoff (나의 첫 알고리즘+자료구조 with 파이썬)
 * CodeIt: Python Programming Fundamentals
 * LeetCode Problems
-
-Feel free to explore, and let me know if you have any questions!
